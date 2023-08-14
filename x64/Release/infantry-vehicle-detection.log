@@ -1,0 +1,18 @@
+﻿  Detector.cpp
+C:\Users\dylan\Desktop\projects\infantry-vehicle-detection\Detector.cpp(90,64): warning C4244: 'argument': conversion from 'const float' to '_Tp', possible loss of data
+          with
+          [
+              _Tp=int
+          ]
+C:\Users\dylan\Desktop\projects\infantry-vehicle-detection\Detector.cpp(90,51): warning C4244: 'argument': conversion from 'const float' to '_Tp', possible loss of data
+          with
+          [
+              _Tp=int
+          ]
+C:\Users\dylan\Desktop\projects\infantry-vehicle-detection\Detector.cpp(119,32): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\dylan\Desktop\projects\infantry-vehicle-detection\Detector.cpp(197,18): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+  All 553 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  infantry-vehicle-detection.vcxproj -> C:\Users\dylan\Desktop\projects\infantry-vehicle-detection\x64\Release\infantry-vehicle-detection.exe
